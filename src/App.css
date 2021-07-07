@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.BackgroundImage{
+  background-image: url("https://mk-website-media.s3.amazonaws.com/wp-content/uploads/2018/10/19000855/Wallpaper-Kemra-Bookshelf-1.jpg");
+  font-weight: bolder;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
